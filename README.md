@@ -5,9 +5,9 @@ This repository contains chapter by chapter readings of এসো রোবট �
 ## Book Cover
 
 <p align="center">
-  <img width="6000" height="550" src="https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/ESO-ROBOT-BANAI-m-Cover-08_Page_01.jpg">
+  <img width="5000" height="550" src="https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/ESO-ROBOT-BANAI-m-Cover-08_Page_01.jpg">
 </p>
 
 <p align="center">
-  <img width="600" height="550" src="https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/ESO-ROBOT-BANAI-m-Cover-08_Page_10.jpg">
+  <img width="5000" height="550" src="https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/ESO-ROBOT-BANAI-m-Cover-08_Page_10.jpg">
 </p>
