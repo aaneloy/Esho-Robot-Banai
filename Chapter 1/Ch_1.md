@@ -24,6 +24,14 @@
 ## ১. Pre-Programmed Robots:
 প্রি-প্রোগ্রামড রোবটগুলো সাধারণত নির্দিষ্ট একটি কাজের জন্য নির্দেশিত থাকে। যেমন কিছু রোবট আছে যেগুলো শুধু গাড়ির যন্ত্র লাগানোর কাজ করে থাকে। আবার কতগুলো শুধু গাড়ির যন্ত্র রঙের কাজে ব্যবহ্রত হয়। আমাদের সবার পরিচিত “লাইন ফলোয়ার” রোবট একটি Pre-Programmed Robot।
 
+<p align="center">
+  <img width="360" height="300" src=https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/IMG_7080.JPG">
+</p>
+                                                                                                                     
+<p align="center">
+  <img width="360" height="300" src=https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/IMG_7100.JPG">
+</p>                                                                                                                   
+
 Pre- Programmed Robot – Line Follower and Maze Solver
 
 ## ২. Autonomous Robots
