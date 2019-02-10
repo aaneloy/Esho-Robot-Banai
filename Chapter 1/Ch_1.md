@@ -2,6 +2,9 @@
 ## অধ্যায়-১ঃ পরিচিতি (Introduction)
 
 ‘রোবটিক্স’(Robotics) শব্দটি অনেকের কাছে অনেক বিটঘুটে শোনায়। অনেকের কাছে এটা আবার বিস্তর আগ্রহের বিষয়। আবার অনেক শ্রেণীর মানুষ আছেন যারা রোবটের বা ইলেকট্রিক যন্ত্রের ঘোর বিরোধী (যেমন আমাদের বাবা মা আমাদের হাতে মোবাইল দেখলেই তৃতীয় বিশ্ব যুদ্ধের অবতরণ হয়)। এমন বিস্তর অজানা আর আগ্রহের একটা বিষয় হচ্ছে এই রোবটিক্স বা রোবট যন্ত্রের বিজ্ঞান।
+<p align="center">
+  <img width="360" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/977a2d3281f3ff36949a585b8d3c8094--cartoon-characters-robots.jpg">                                            </p>
+
 
 ## রোবটিক্স কি ? (What is Robotics)
 
@@ -33,16 +36,25 @@
                                                                                                                                       
 ## ২. Autonomous Robots
 এই রোবটগুলি সাধারণত ইন্ড্রাস্ট্রিয়াল বা শিল্পক্ষত্রে ব্যবহার করা হয়। যেমন ভারী কোন বস্তু ওঠানা বা স্থানান্তর, স্বয়ংক্রিয়ভাবে কোন বস্তু এক জায়গা থেকে অন্য জায়গায় পাঠানো। এই সমস্ত রোবটে আগে থেকেই নির্দেশনা পাঠানো থাকে। MIT (Massachusetts Institute of Technology) এর তৈরি করা MIT CHEETAH একটি Autonomous Robot যেটি ঘন্টায় ১০ মাইল দৌড়াতে সক্ষম। 
- 
+
+<p align="center">
+  <img width="360" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/robot-funded-by-the-us-military-can-sprint-and-jump-just-like-a-cheetah.jpg">                                            
+</p>
 MIT cheetah
 ## ৩. Teleoperated Robots
 এই ধরণের রোবটগুলি মানুষ দ্বারা নিয়ন্ত্রিত হয়ে থাকে। যেমন আমরা ছোট বেলায় যে রিমোট কন্ট্রোল গাড়ি চালাতাম এটি এক প্রকার Teleoperated Robot। এছাড়া রিমোট কন্ট্রোল ড্রোনও এই প্রকারের রোবট। 
- 
+
+<p align="center">
+  <img width="360" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/1184311952.jpg">             </p> 
 Teleoperated Robots - Police surveillance drone
 
 
 ## ৪. Augmenting Robots
 Augmenting রোবটগুলি সরাসরি হিউম্যান বডির সাথে সম্পর্কযুক্ত। যে সকল রোবট সরাসরি হিউম্যান পার্টস যেমন হ্যান্ড (Hand) হেড (Head) দ্বারা নিয়ন্ত্রিত হয়, সে সকল রোবটকে বলা হয় Augmenting Robots.
+
+<p align="center">
+  <img width="360" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/robocop_render3.jpg">       </p>
+  
 ৮০ এর দশকের বিখ্যাত “রোবোকপ” মুভির প্রধান চরিত্র “এলেক্স মারফি” এর শরীরে ব্যবহ্রত রোবটটি ছিল এক ধরণের Augmenting Robot.
 
            
