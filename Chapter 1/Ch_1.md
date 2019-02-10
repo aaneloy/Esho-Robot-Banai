@@ -28,7 +28,7 @@
   <img width="360" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/IMG_7080.JPG">
   <img width="360" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/IMG_7100.JPG">                                                                                                                  
 </p>
-                                                                                                                                      .center[Pre Programmed Robot - Line Follower and Maze Solver]
+                                                                                                                                      ``Pre Programmed Robot - Line Follower and Maze Solver``
                                                                                                                                       
 ## ২. Autonomous Robots
 এই রোবটগুলি সাধারণত ইন্ড্রাস্ট্রিয়াল বা শিল্পক্ষত্রে ব্যবহার করা হয়। যেমন ভারী কোন বস্তু ওঠানা বা স্থানান্তর, স্বয়ংক্রিয়ভাবে কোন বস্তু এক জায়গা থেকে অন্য জায়গায় পাঠানো। এই সমস্ত রোবটে আগে থেকেই নির্দেশনা পাঠানো থাকে। MIT (Massachusetts Institute of Technology) এর তৈরি করা MIT CHEETAH একটি Autonomous Robot যেটি ঘন্টায় ১০ মাইল দৌড়াতে সক্ষম। 
