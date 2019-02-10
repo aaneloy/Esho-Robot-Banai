@@ -26,12 +26,9 @@
 
 <p align="center">
   <img width="360" height="300" src=https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/IMG_7080.JPG">
+  <img width="360" height="300" src=https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/IMG_7100.JPG">                                                                                                                  
 </p>
-                                                                                                                     
-<p align="center">
-  <img width="360" height="300" src=https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/IMG_7100.JPG">
-</p>                                                                                                                   
-
+                                                                                                                                                                                                                           
 Pre- Programmed Robot – Line Follower and Maze Solver
 
 ## ২. Autonomous Robots
