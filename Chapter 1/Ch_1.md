@@ -39,8 +39,9 @@
 
 <p align="center">
   <img width="360" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch1/robot-funded-by-the-us-military-can-sprint-and-jump-just-like-a-cheetah.jpg">
-  
-                               <em> MIT cheetah </em>
+</p>
+<p align="center">
+<em> MIT cheetah </em>
 </p>
 
 
