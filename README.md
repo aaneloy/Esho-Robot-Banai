@@ -14,13 +14,13 @@ This repository contains chapter by chapter readings of এসো রোবট �
 
 ## Over View
 <p align="center">
-  <img width="4000" height="550" src="https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/ESO-ROBOT-BANAI-m-Cover-08_Page_03.jpg">
+  <img width="3000" height="550" src="https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/ESO-ROBOT-BANAI-m-Cover-08_Page_03.jpg">
 </p>
 
 <p align="center">
-  <img width="4000" height="550" src="https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/ESO-ROBOT-BANAI-m-Cover-08_Page_04.jpg">
+  <img width="3000" height="550" src="https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/ESO-ROBOT-BANAI-m-Cover-08_Page_04.jpg">
 </p>
 
 <p align="center">
-  <img width="4000" height="550" src="https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/ESO-ROBOT-BANAI-m-Cover-08_Page_07.jpg">
+  <img width="3000" height="550" src="https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/ESO-ROBOT-BANAI-m-Cover-08_Page_07.jpg">
 </p>
