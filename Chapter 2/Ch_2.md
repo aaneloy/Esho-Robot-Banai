@@ -3,7 +3,7 @@
 তোমরা সবাই হয়ত এখন রোবটিক্স শব্দটির সাথে পরিচিত। এই সেক্টরে কাজ করার আগে তোমাদের উচিত এই শিল্প নিয়ে ভালভাবে জেনে নেওয়া। এই অধ্যায়ে আমরা রোবটিক্স এর মূল কথা এবং রোবটিক্স কিভাবে শুরু করব এবং একে কিভাবে আমাদের বিভিন্ন প্রয়োজনে ব্যবহার করা যায় সেটা নিয়ে সরস আলোচনা করব।
 
 <p align="center">
-  <img width="360" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch2/thinker.png">                 </p>
+  <img width="260" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch2/thinker.png">                 </p>
  
 ``চলো প্রথমেই আমরা জেনে নেই আমাদের আশে পাশের খুব প্রয়োজনীয় কাজগুলোতে কীভাবে রোবটিক্স এর ধারণা ব্যবহৃত হচ্ছে।``
 
