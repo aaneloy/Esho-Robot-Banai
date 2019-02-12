@@ -29,3 +29,4 @@ This repository contains chapter by chapter readings of এসো রোবট �
 
 - **[অধ্যায়-১ঃ পরিচিতি (Introduction)](https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Chapter%201/Ch_1.md)**
 - **[অধ্যায়- ২ঃ রোবটিক্স এর শুরুর কথা (Starting of Robotics)](https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Chapter%202/Ch_2.md)**
+- **[অধ্যায়-৩ঃ রোবটিক্স সিস্টেম (Robotics System)](https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Chapter%203/Ch_3.md)**
