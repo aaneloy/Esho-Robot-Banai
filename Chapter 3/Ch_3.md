@@ -54,7 +54,7 @@
 এবার আমরা একটি ছোট উদাহরণ দেখি। ধরো আমরা একটি সার্কিট বানাব, যেটির সাহায্যে আমরা ২টি বাল্ব জ্বালাতে পারি। আমরা একই সাথে দেখব সার্কিট ডায়াগ্রাম আর হার্ডওয়্যার ইম্পিমেন্টেশন। 
 
 <p align="center">
-  <img width="260" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch3/cub_electricity_lesson05_activity1_fig1.jpg"> 
+  <img width="360" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch3/cub_electricity_lesson05_activity1_fig1.jpg"> 
 </p>
  
 উপরের ডায়াগ্রাম থেকে দেখো, আমরা ২টি বাল্ব সিরিজ কানেকশন দিয়ে একটি ১.৫ ভোল্ট ব্যাটারি দিয়ে জ্বালাচ্ছি। আমরা ইচ্ছে করলে আমরা ৯ ভোল্টের ব্যাটারিও ব্যবহার করতে পারতাম, সে ক্ষেত্রে আমাদের একটি রেজিস্টার ব্যবহার করতে হয়, না হলে বাল্ব হয়ত অতিরিক্ত কারেন্ট প্রবাহের ফলে পুড়ে যেত। 
