@@ -17,12 +17,12 @@ Arduino Uno 14 ডিজিটাল ইনপুট / আউটপুট পি
 Arduino Uno সমস্ত পূর্ববর্তী বোর্ড থেকে পৃথক যে এটি FTDI USB- থেকে-সিরিয়াল ড্রাইভার চিপ ব্যবহার করে না। পরিবর্তে, এটি ATmega8U2 মাইক্রোকন্ট্রোলার চিপটি একটি ইউএসবি-টু-সিরিয়াল কনভার্টার হিসাবে প্রোগ্রাম করে।
 
 এক নজরে-
-- **Microcontroller: ATmega328
-- **Operating Voltage: 5V
-- **Input Voltage (recommended): 7-12V
-- **Input Voltage (limits): 6-20V
-- **Digital I/O Pins: 14 (of which 6 provide PWM output)
-- **Analog Input Pins: 6
+- ** Microcontroller: ATmega328
+- ** Operating Voltage: 5V
+- ** Input Voltage (recommended): 7-12V
+- ** Input Voltage (limits): 6-20V
+- ** Digital I/O Pins: 14 (of which 6 provide PWM output)
+- ** Analog Input Pins: 6
 - **DC Current per I/O Pin: 40 mA
 - **DC Current for 3.3V Pin: 50 mA
 - **Flash Memory: 32 KB of which 0.5 KB used by bootloader
