@@ -75,7 +75,7 @@ Arduino মেগা 2560 microcontroller সমর্থন করার জন
  
 ### সকল সংকেত সহ- 
 <p align="center">
-  <img width="560" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch4/Mega2560_R3_Label-small-v2.png"> 
+  <img width="760" height="600" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch4/Mega2560_R3_Label-small-v2.png"> 
 </p> 
 
 ## ``আরডুইনো প্রো মিনি(Arduino Pro Mini 328 - 5V/16MHz)``
@@ -121,7 +121,7 @@ Raspberry Pi 3 মডেল B হল তৃতীয় প্রজন্মে
 ### Ports: HDMI, 3.5mm analogue audio-video jack, 4× USB 2.0, Ethernet, Camera Serial Interface (CSI), Display Serial Interface (DSI)
 
 <p align="center">
-  <img width="560" height="600" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch4/raspberry_pi_circuit_note_fig2a.webp"> 
+  <img width="660" height="700" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch4/raspberry_pi_circuit_note_fig2a.webp"> 
 </p>
 
 সুতরাং, মূলত তুমি তোমার Project এর উপর নির্ভর করে, অনেকগুলো I/O পোর্ট প্রয়োজন হলে Arduino Due / Mega ব্যবহার করবে। আর যদি ছোট Project হয় তবে  - মাইক্রো, মিনি এবং Nano অত্যন্ত সহজ হবে। যদি তুমি IOT প্রকল্পে কাজ করো এবং Raspberry Pi বোর্ডের পরিবর্তে ইন্টারনেট অ্যাক্সেস করার জন্য Arduino (আমি সবসময় একটি লিনাক্স বোর্ডে ইন্টারনেট ব্যবহার করতে পছন্দ করি) ব্যবহার করতে পারো। কিন্তু শুরুতে আমি Uno ব্যবহার না করে  Mega কে  সুপারিশ করব। Uno ব্যবহার করা সহজ, কিন্তু Mega এর কাজ করার স্পিড অনেক ভালো আর অনেকগুলো I/O পিন এতে রয়েছে। 
