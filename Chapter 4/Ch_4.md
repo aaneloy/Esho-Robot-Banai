@@ -46,7 +46,7 @@ Arduino Uno সমস্ত পূর্ববর্তী বোর্ড থ�
 ### সকল সংকেত সহ- 
 
 <p align="center">
-  <img width="660" height="700" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch4/arduino_uno2.jpg"> 
+  <img width="860" height="700" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch4/arduino_uno2.jpg"> 
 </p> 
 
 ## ``আরডুইনো মেগা (Arduino MEGA)- Arduino Mega 2560 R3``
