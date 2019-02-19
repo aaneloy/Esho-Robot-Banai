@@ -55,7 +55,7 @@
 আমরা জানি যে একটি ইন্টিগ্রেটেড সার্কিট মূলত একটি Diode, ট্রানজিস্টর এবং মাইক্রোপ্রসেসর গুলির একটি সংমিশ্রণ, যা একটি ওয়েফার (Wafer) নামে পরিচিত একটি সেমি-কন্ডাক্ট উপাদানে কমিয়ে আনা হয়, যা সাধারণত সিলিকন (silicon)। প্রতিটি ইলেকট্রনিক উপাদান একটি নির্দিষ্ট ফাংশন আছে, এবং যখন তারা একে অপরের সাথে মিলিত হয়, তারা একাধিক কাজ এবং গণনা করতে পারে। আমরা এই উপাদান সংক্ষিপ্তভাবে আলোচনা করব।
 
  <p align="center">
-  <img width="660" height="500" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/Integrated-Circuit-Symbol-480x239.jpg"> 
+  <img width="660" height="600" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/Integrated-Circuit-Symbol-480x239.jpg"> 
 </p> 
 
 ### ১.ডায়োড(Diode)
