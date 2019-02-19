@@ -112,17 +112,30 @@
 এই আইসি দুটি উচ্চ-মানের অপারেশনাল Amplifiers রয়েছে। এই amplifiers এসি এবং ডিসি সার্কিট মধ্যে অনেক অ্যাপ্লিকেশন ব্যবহার করা যেতে পারে। এরা সাধারণত মাইক্রোফোন preamplifiers ইত্যাদি হিসাবে পেশাদারী অডিও সিস্টেমে ব্যবহার করা হয়। তাদের ভোল্টেজ লেভেল দুই resistors এর সঙ্গে সহজে সেট করা যাবে।
  
 
-৩. LM324 4x opamp single supplyঃ
+### ৩. LM324 4x opamp single supplyঃ
+ <p align="center">
+  <img width="460" height="400" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/ne5532-125.jpg"> 
+</p>
+
 এই আইসি রয়েছে 4 কার্যকরী Amplifiers। এটি একটি একক পাওয়ার সাপ্লাই থেকে অপারেশন জন্য অপটিমাইজ করা হয় এবং যে কম ভোল্টেজ কাজ যে, তার সংকেত এর জন্য + 5V সরবরাহের সঙ্গে ভাল কাজ করে। এটি একটি অনেক জনপ্রিয় চিপ যা অনেক অ্যাপ্লিকেশন ব্যবহৃত হয়। 
+
+ <p align="center">
+  <img width="460" height="400" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/ne5532a-256.jpg"> 
+</p>
  
-৪. LM386 Audio amp low-voltageঃ
+### ৪. LM386 Audio amp low-voltageঃ
+ <p align="center">
+  <img width="360" height="300" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/lm324-125.jpg"> 
+</p>
+
 একটি স্পিকার বা হেডফোন, যেখানে হাই অডিও (High Audio) এর প্রয়োজন হয়, যেখানে এই চিপ ব্যাপকভাবে ব্যবহৃত হয়। নীচে একটি উদাহরণ বর্তনী আছে।
 
-
+ <p align="center">
+  <img width="460" height="400" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/LM324-PinOut-256.jpg"> 
+</p>
  
-
-
-৫. PC817 Opto-Isolatorঃ
+ 
+### ৫. PC817 Opto-Isolatorঃ
 এই আইসি একটি অভ্যন্তরীণ LED এ থাকে,  যে একটি Arduino আউটপুট থেকে চালিত করা যেতে পারে (প্রায় একটি সিরিজ রোধ সঙ্গে 220 ohms)। এর একটি phototransistor আউটপুট আছে যা চালু হয় যখন LED অন হয়।।ইনপুট এবং আউটপুট মধ্যে কোন বৈদ্যুতিক সংযোগ নেই, শুধুমাত্র আলো ভিতরে ভেতরে অতিক্রম করতে পারে। এটি কোনও সাধারণ স্থল সংযোগ না থাকা ডিভাইস গুলিকে সংযুক্ত করার জন্য বা বিভিন্ন ভোল্টেজে কাজ করার জন্য এটি চমৎকার উপাদান । এই আইসি  "ট্রান্সফার অনুপাত" (ট্র্যাজিশন এবং ট্র্যাশের অনুপাত) এর প্রায় 100 গুন শক্তিশালী।
  
 
