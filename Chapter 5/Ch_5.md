@@ -23,7 +23,7 @@
 একটি আইসি ডিজিটাল, এনালগ বা উভয় সংমিশ্রণ হিসাবে আরও শ্রেণীবদ্ধ করা যেতে পারে। একটি আধুনিক আইসি এর সবচেয়ে সাধারণ উদাহরণ হল কম্পিউটার প্রসেসর যা বিলবোর্ড তৈরি করা ট্রানজিস্টর, লজিক গেটস(Logic Gates) এবং অন্যান্য ডিজিটাল সার্কিট।
 
 <p align="center">
-  <img width="860" height="400" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/integrated-circuit.jpg"> 
+  <img width="760" height="400" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/integrated-circuit.jpg"> 
 </p>  
 
 
@@ -48,14 +48,14 @@
  
 ## Temperature Sensor
 <p align="center">
-  <img width="460" height="200" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/images%20(2).jfif"> 
+  <img width="360" height="200" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/images%20(2).jfif"> 
 </p> 
 
 ## ইন্টিগ্রেটেড সার্কিট অপারেশন
 আমরা জানি যে একটি ইন্টিগ্রেটেড সার্কিট মূলত একটি Diode, ট্রানজিস্টর এবং মাইক্রোপ্রসেসর গুলির একটি সংমিশ্রণ, যা একটি ওয়েফার (Wafer) নামে পরিচিত একটি সেমি-কন্ডাক্ট উপাদানে কমিয়ে আনা হয়, যা সাধারণত সিলিকন (silicon)। প্রতিটি ইলেকট্রনিক উপাদান একটি নির্দিষ্ট ফাংশন আছে, এবং যখন তারা একে অপরের সাথে মিলিত হয়, তারা একাধিক কাজ এবং গণনা করতে পারে। আমরা এই উপাদান সংক্ষিপ্তভাবে আলোচনা করব।
 
  <p align="center">
-  <img width="660" height="400" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/Integrated-Circuit-Symbol-480x239.jpg"> 
+  <img width="660" height="500" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/Integrated-Circuit-Symbol-480x239.jpg"> 
 </p> 
 
 ### ১.ডায়োড(Diode)
