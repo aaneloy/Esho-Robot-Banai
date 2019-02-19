@@ -48,7 +48,7 @@
  
 ## Temperature Sensor
 <p align="center">
-  <img width="660" height="400" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/images%20(2).jfif"> 
+  <img width="460" height="200" src= "https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Images/Ch5/images%20(2).jfif"> 
 </p> 
 
 ## ইন্টিগ্রেটেড সার্কিট অপারেশন
