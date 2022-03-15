@@ -1,8 +1,7 @@
 ## এসো রোবট বানাই- রোবটিক্সের শুরু'
 ![Author](https://img.shields.io/badge/author-aaneloy-blue) 
 
-This repository contains chapter by chapter readings of এসো রোবট বানাই book. Still updating...
-
+This repository contains chapter by chapter readings of "এসো রোবট বানাই" book. Still updating...
 
 ## Book Cover
 
