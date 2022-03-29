@@ -33,7 +33,7 @@ This repository contains chapter by chapter readings of "এসো রোবট 
 - **[অধ্যায়-৩ঃ রোবটিক্স সিস্টেম (Robotics System)](https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Chapter%203/Ch_3.md)**
 - **[অধ্যায়-৪ঃ ডেভোলাভমেন্ট বোর্ডস (Development Boards)](https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Chapter%204/Ch_4.md)**
 - **[অধ্যায়-৫ঃ ইন্ট্রিগ্রেটেট সার্কিটস ( Integrated Circuits or IC’s)](https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Chapter%205/Ch_5.md)**
-
+- **[অধ্যায়-৫ঃ ইন্ট্রিগ্রেটেট সার্কিটস ( Integrated Circuits or IC’s)](https://github.com/NeloyNSU/Esho-Robot-Banai/blob/master/Chapter%205/Ch_5.md)**
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
