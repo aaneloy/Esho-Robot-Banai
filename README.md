@@ -3,7 +3,7 @@
 
 This repository contains chapter by chapter readings of "এসো রোবট বানাই" book. 
 
-Update stopped - 2020
+Last update - 2020
 
 ## Book Cover
 
